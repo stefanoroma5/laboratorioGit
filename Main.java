@@ -6,5 +6,7 @@ public class Main {
         
         System.out.println("Inserito nel branch test");
         System.out.println("Seconda print inserita nel branch master");
+        
+        System.out.println("Seconda print inserita nel branch test");
     }
 }
